@@ -1,0 +1,20 @@
+p {
+    background-color: #FFCCCB;
+    font: "Veranda", "DejaVu Sans", sans-serif;
+
+}
+
+.cool {
+    font-size: 24px;
+}
+
+#BIG {
+    font-size: 36px;
+    color: #0000FF;
+}
+
+#SMALL {
+    background-color: #90EE90;
+    font-size: 24px;
+    font-weight: bold;
+}
